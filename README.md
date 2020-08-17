@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Another web developer here. I have tried the most popular back and front languages and haven't stuck with one yet.
+
+If the project looks cool, I'm in!
+
 <!--
 **moralsh/moralsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
